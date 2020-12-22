@@ -32,3 +32,13 @@ class DictSpider(scrapy.Spider):
             )
 
 
+    def getPageSearch(self,response):
+        x = response.meta['x']
+        search = response.meta['search']
+        if 'Perdoruesi ose fjalekalimi eshte gabim!' in response.text:
+            print('"{}" nuk eshte fjalekalim'.format(search))
+        if 'index_Perdoruesit.php' in response.url:
+            print('Fjalekalimi per userin: "{}" eshte "{}"'.format(x,search))
+            # breakpoint()
+
+        # print('s')
