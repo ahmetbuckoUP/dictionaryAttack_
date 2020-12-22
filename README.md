@@ -25,4 +25,4 @@ p.s. me te verdha jane te paraqitur username dhe kur breach ka ndodhur pra useri
 
 ![image](https://user-images.githubusercontent.com/75639075/102830271-43de1180-43e9-11eb-84b2-284d7f6f5fd5.png)
 
-Punuar nga: Ahmet Bucko, Albion Berisha dhe Ardian Reçiça.
+Punuar nga: Ahmet Bucko, Albion Berisha dhe Ardian Reçica.
