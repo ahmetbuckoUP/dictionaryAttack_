@@ -6,7 +6,7 @@ Ne kete ushtrim ne kemi kryer nje sulm me sqlDict tool ne Kali linux, dhe kemi k
 
 ![image](https://user-images.githubusercontent.com/75639075/102727299-2f384580-4325-11eb-84dc-d21caa74ce8c.png)
 
-Ku ne IP: jepet target server, jepet account username dhe bohet load nje file.txt me passworda ku aplikacioni fillon ta sulmoj aplikacioni.
+Ku ne IP: jepet target server, jepet account username dhe bohet load nje file.txt me passworda ku aplikacioni fillon ta sulmoj targetin.
 
 ![image](https://user-images.githubusercontent.com/75639075/102829724-0462f580-43e8-11eb-981e-31d5357d07d7.png)
 
